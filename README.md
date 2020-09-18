@@ -14,9 +14,9 @@ NDN Protocol Wallet  built with Flutter
 
 ### Introduction
 
- [Polkawallet](http://polkawallet.io) provide one-stop management for cross-chain assets, convenient staking and governance operations, and the private key is self-owned. 
+ [NDNProtocolWallet](http://ndn.link) provide one-stop management for cross-chain Data, convenient staking and governance operations, and the private key is self-owned. 
 
-![Polkawallet-overview](./polkawallet-overview.png)
+
 
 Polkawallet is aiming to provide a more convenient entrance of the polkadot network for all the users of Polkadot/Kusama/Substrate-based-blockchains.
 
