@@ -15,7 +15,7 @@ NDN Protocol Wallet  built with Flutter
 
 
 
-Polkawallet is aiming to provide a more convenient entrance of the polkadot network for all the users of Polkadot/Kusama/Substrate-based-blockchains.
+NDNProtocolWallet is aiming to provide a more convenient entrance of the polkadot network for all the users of Polkadot/Kusama/Substrate-based-blockchains.
 
 - Friendly UI.
 - Secure local accounts storage.
@@ -48,12 +48,12 @@ Polkawallet is aiming to provide a more convenient entrance of the polkadot netw
 - `Node 12.x` 
 
 #### Install Flutter 
-`polkawallet_flutter` is built with [Flutter](https://flutter.dev/), you need to have `Flutter` dev tools
+`NDNPotocolWallet` is built with [Flutter](https://flutter.dev/), you need to have `Flutter` dev tools
 installed on your computer to compile the project. check [Flutter Documentation](https://flutter.dev/docs)
  to learn how to install `Flutter` and initialize a Flutter App.
 
 #### Build `main.js` of polkadot-js API
-`polkawallet_flutter` connects substrate-based networks with [polkadot-js/api](https://polkadot.js.org/api/), running in a hidden webview.
+`NDNPotocolWallet` connects substrate-based networks with [polkadot-js/api](https://polkadot.js.org/api/), running in a hidden webview.
 You'll need `Nodejs` and `yarn` installed to build the bundled `main.js` file:
 ```shell script
 cd lib/polkadot_js_service/
@@ -74,19 +74,19 @@ While `main.js` was built in `lib/polkadot_js_service/` directory, you may build
 
 > Why use Flutter to develop?
 
-The previous version tried to develop Polkawallet with React Native, we want to try different frameworks and explore different solutions. Through exploration, we saw that the fluency of the Flutter version has greatly improved, which is a good attempt.
+The previous version tried to develop NDNPotocolWallet with React Native, we want to try different frameworks and explore different solutions. Through exploration, we saw that the fluency of the Flutter version has greatly improved, which is a good attempt.
 
-> Can other teams make secondary development based on Polkawallet?
+> Can other teams make secondary development based on NDNPotocolWallet?
 
-Of course, we use a very loose Apache License 2.0, you can make free changes based on Polkawallet. We have contacted some projects to help them carry out secondary development. Such as datahighway.com
-There have the link of Github repository: https://github.com/polkawallet-io/polkawallet-flutter/tree/develop
-
-> How can Polkawallet maintain development?
-
-We got grants from Web3 Foundation, at the same time, we are helping Acala Network to develop convenient mobile interactions. In the future we want to actively join the ParaDAO that Acala Network is launching, this can be a way for many ecological projects to come together. Through ParaDAO, infrastructures such as Polkawallet and Parachain projects all have clear maintenance development plans.
+Of course, we use a very loose Apache License 2.0, you can make free changes based on NDNPotocolWallet. We have contacted some projects to help them carry out secondary development. 
 
 
-### View more info of Polkawallet
+> How can NDNPotocolWallet maintain development?
+
+We got grants from Web3 Foundation, at the same time, we are helping Acala Network to develop convenient mobile interactions. In the future we want to actively join the ParaDAO that Acala Network is launching, this can be a way for many ecological projects to come together. Through ParaDAO, infrastructures such as NDNPotocolWallet and Parachain projects all have clear maintenance development plans.
+
+
+### View more info of NDNPotocolWallet
 `Website:` https://ndn.link  
 
 ### Tipping address
