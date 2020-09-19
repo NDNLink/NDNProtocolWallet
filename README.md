@@ -4,9 +4,6 @@ NDN Protocol Wallet
 
 ----
 
-[![Build Status](https://travis-ci.com/polkawallet-io/polkawallet-flutter.svg?branch=master)](https://travis-ci.com/polkawallet-io/polkawallet-flutter)
-[![Release](https://img.shields.io/github/v/release/polkawallet-io/polkawallet-flutter)](https://github.com/polkawallet-io/polkawallet-flutter/releases)
-[![tag](https://img.shields.io/github/v/tag/polkawallet-io/polkawallet-flutter)](https://github.com/polkawallet-io/polkawallet-flutter/tags)
 
 NDN Protocol Wallet  built with Flutter
 
@@ -90,9 +87,7 @@ We got grants from Web3 Foundation, at the same time, we are helping Acala Netwo
 
 
 ### View more info of Polkawallet
-`Website:` https://polkawallet.io  
-`Twitter:` https://twitter.com/polkawallet  
-`E-mail:`  hello@polkawallet.io  
+`Website:` https://ndn.link  
 
 ### Tipping address
 
