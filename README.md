@@ -15,7 +15,7 @@ NDN Protocol Wallet  built with Flutter
 
 
 
-NDNProtocolWallet is aiming to provide a more convenient entrance of the polkadot network for all the users of Polkadot/Kusama/Substrate-based-blockchains.
+NDNProtocolWallet is aiming to provide a more convenient entrance of the NDNProtocol network for all the users of NDN/NDNLink/Substrate-based-blockchains.
 
 - Friendly UI.
 - Secure local accounts storage.
