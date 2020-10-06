@@ -6,6 +6,7 @@ set -e
 # debug log
 set -x
 
+
 cd ..
 # choose a different release channel if you want - https://github.com/flutter/flutter/wiki/Flutter-build-release-channels
 # stable - recommended for production
