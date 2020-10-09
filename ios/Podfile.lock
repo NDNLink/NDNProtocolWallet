@@ -1,5 +1,5 @@
 PODS:
-  - connectivity (0.0.1):
+  - connectivity (0.0.2):
     - Flutter
     - Reachability
   - device_info (0.0.1):
