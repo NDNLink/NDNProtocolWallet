@@ -8,6 +8,7 @@ import 'package:polka_wallet/store/assets/assets.dart';
 import 'package:polka_wallet/store/gov/governance.dart';
 import 'package:polka_wallet/utils/localStorage.dart';
 
+
 part 'app.g.dart';
 
 final AppStore globalAppStore = AppStore();
