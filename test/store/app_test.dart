@@ -3,6 +3,7 @@ import 'package:polka_wallet/store/app.dart';
 
 import 'localStorage_mock.dart';
 
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
   final AppStore store = AppStore();
